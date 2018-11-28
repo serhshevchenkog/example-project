@@ -13,9 +13,9 @@ class App extends Component {
           	</div>
           	<div className="right">
           		<h3 className="name">You name Sergei </h3>
-          		<h4 className="position">You position Eng </h4>
-          		<p className="phone">You phone +38063....463</p>
-          		<p className="email">You email serh.shevchenko</p>
+          		<h4 className="position">You position Eng sfjgklsdlkjg </h4>
+          		<p className="phone">You phone +38063....463 sdfkjgsdkjg</p>
+          		<p className="email">You email serh.shevchenko sfkjdgskjgf</p>
           		<p className="social">You social</p>
           	</div>
           </section>
